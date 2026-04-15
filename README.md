@@ -10,3 +10,4 @@ This repository contains my daily DSA practice in Java.
 - Day 4: List + String
 - Day 5: List + String
 - Day 6: List + String
+- Day 7: List + String
