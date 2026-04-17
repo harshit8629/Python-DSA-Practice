@@ -1,0 +1,44 @@
+# Number of Unique Characters in a String
+
+You are given a string s.
+
+Return the number of distinct (unique) characters present in the string.
+
+Example 1:
+
+Input: s = "abcabcbb"
+Output: 3
+
+Explanation:
+
+The unique characters in the string are:
+
+a, b, c
+
+Thus, the answer is 3.
+
+Example 2:
+
+Input: s = "bbbbb"
+Output: 1
+
+Explanation:
+
+The only unique character in the string is:
+
+b
+
+Thus, the answer is 1.
+
+Example 3:
+
+Input: s = "pwwkew"
+Output: 4
+
+Explanation:
+
+The unique characters in the string are:
+
+p, w, k, e
+
+Thus, the answer is 4.
