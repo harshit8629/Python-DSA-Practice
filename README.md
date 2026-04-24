@@ -19,3 +19,4 @@ This repository contains my daily DSA practice in Java.
 - Day 13: String
 - Day 14: Array
 - Day 15: Array
+- Day 16: Array
