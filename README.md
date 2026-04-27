@@ -22,3 +22,4 @@ This repository contains my daily DSA practice in Java.
 - Day 16: Array
 - Day 17: Array
 - Day 18: List + String
+- Day 19: Array
