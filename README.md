@@ -25,3 +25,4 @@ This repository contains my daily DSA practice in Java.
 - Day 19: Array
 - Day 20: Stack
 - Day 21: List
+- Day 22: List and String
