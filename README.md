@@ -26,3 +26,4 @@ This repository contains my daily DSA practice in Java.
 - Day 20: Stack
 - Day 21: List
 - Day 22: List and String
+- Day 23: List
