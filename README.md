@@ -27,3 +27,4 @@ This repository contains my daily DSA practice in Java.
 - Day 21: List
 - Day 22: List and String
 - Day 23: List
+- Day 24: List and String
