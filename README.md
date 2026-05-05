@@ -30,3 +30,4 @@ This repository contains my daily DSA practice in Java.
 - Day 24: List and String
 - Day 25: set and list(intersection)
 - Day 26: List and Subset
+- Day 27: List
