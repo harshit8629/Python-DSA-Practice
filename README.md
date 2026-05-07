@@ -32,3 +32,4 @@ This repository contains my daily DSA practice in Java.
 - Day 26: List and Subset
 - Day 27: List
 - Day 28: List
+- Day 29: Array
