@@ -33,3 +33,4 @@ This repository contains my daily DSA practice in Java.
 - Day 27: List
 - Day 28: List
 - Day 29: Array
+- Day 30: List
