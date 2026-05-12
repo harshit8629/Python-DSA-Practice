@@ -37,3 +37,4 @@ This repository contains my daily DSA practice in Java.
 - Day 31: if else
 - Day 32: List
 - Day 33: list,set,if-else
+- Day 34: Dictonary and list
