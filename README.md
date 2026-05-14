@@ -38,4 +38,4 @@ This repository contains my daily DSA practice in Java.
 - Day 32: List
 - Day 33: list,set,if-else
 - Day 34: Dictonary and list
-- Day 35: list,Numpy and String
+- Day 35: List,Numpy and String
